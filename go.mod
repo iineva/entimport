@@ -1,4 +1,4 @@
-module ariga.io/entimport
+module github.com/iineva/entimport
 
 go 1.20
 
